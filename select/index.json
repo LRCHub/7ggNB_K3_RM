@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "TRAIN",
+  "base_artist": "ONE DRAFT",
+  "createdAt": "2026-02-12T15:46:43.051793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Road Train",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Road_Train_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Road Train - Live in Manchester ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Road_Train_-_Live_in_Manchester_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Road Train (Live in Manchester '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Road_Train_(Live_in_Manchester_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Desperados Waiting For A Train",
+      "artist": "Guy Clark",
+      "has_synced": false,
+      "path": "select/04_Desperados_Waiting_For_A_Train_Guy_Clark.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fast Movin' Train",
+      "artist": "Restless Heart",
+      "has_synced": true,
+      "path": "select/05_Fast_Movin'_Train_Restless_Heart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Freight Train",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/06_Freight_Train_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Georgia On a Fast Train",
+      "artist": "Billy Joe Shaver",
+      "has_synced": true,
+      "path": "select/07_Georgia_On_a_Fast_Train_Billy_Joe_Shaver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Long Black Train",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/08_Long_Black_Train_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Baby Thinks He's A Train",
+      "artist": "Rosanne Cash",
+      "has_synced": true,
+      "path": "select/09_My_Baby_Thinks_He's_A_Train_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Baby Thinks He's A Train (Album Version)",
+      "artist": "Rosanne Cash",
+      "has_synced": true,
+      "path": "select/10_My_Baby_Thinks_He's_A_Train_(Album_Version)_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Night Train",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/11_Night_Train_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Train of Love",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/12_Train_of_Love_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Train Of Memories",
+      "artist": "Kathy Mattea",
+      "has_synced": false,
+      "path": "select/13_Train_Of_Memories_Kathy_Mattea.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Train In Vain",
+      "artist": "Dwight Yoakam",
+      "has_synced": false,
+      "path": "select/14_Train_In_Vain_Dwight_Yoakam.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Train in Vain (LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": false,
+      "path": "select/15_Train_in_Vain_(LP_Version)_Dwight_Yoakam.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Train of Thought",
+      "artist": "AKS",
+      "has_synced": false,
+      "path": "select/16_Train_of_Thought_AKS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TRAIN",
+      "artist": "ONE☆DRAFT",
+      "has_synced": false,
+      "path": "select/pl_01_TRAIN_ONE☆DRAFT.txt"
+    }
+  ]
+}
